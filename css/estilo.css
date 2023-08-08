@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 
 * {
     margin: 0;
@@ -7,7 +7,7 @@
 }
 
 body {
-    font-family: 'Bebas Neue';
+    font-family: 'Poppins', sans-serif;
 }
 
 .container-grid {
@@ -57,17 +57,17 @@ header {
 }
 
 .botao{
-    background-color: #A259F7;
+    background-color: #8e1616;
     height: 45px;
     width: 150px;
     text-align: center;
     line-height: 47px;
-    font-size: 1.5em !important;
+    font-size: 1.3em !important;
     border: solid 1px #080324;
 }
 
 .botao:hover{
-    font-size: 1.6em !important;
+    font-size: 1.4em !important;
     height: 50px;
     line-height: 53px;
     width: 160px;
